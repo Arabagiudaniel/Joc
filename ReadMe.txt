@@ -4,5 +4,6 @@ The commands will be:
 Move front:w
 Move back:s
 Jump:space bar
+Double JUmp: space bar two times
 Pause menu enter: Esc
 Pause menu exit: Esc
